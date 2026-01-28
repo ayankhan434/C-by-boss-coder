@@ -8,6 +8,7 @@ int main () {
     cin >> b;
     cout << "enter the third number:";
     cin >> c;
+    //sum of three numbers
     int sum = a + b + c;
     cout << "The sum is: " << sum << endl;
 
